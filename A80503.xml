@@ -1,0 +1,297 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter written from Northampton: containing a true relation of the souldier's preaching, and murdering a woman: which are very grosly misreported by the Diurnal, and Moderate intelligencer. Together with some more new-light from Mr. Del, the chaplain to the army. As also, the quarter the souldiers give to the country where they are quartered.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80503</idno>
+            <idno type="STC">Wing C6172A</idno>
+            <idno type="STC">Thomason E373_20</idno>
+            <idno type="STC">ESTC R201333</idno>
+            <idno type="EEBO-CITATION">99861857</idno>
+            <idno type="PROQUEST">99861857</idno>
+            <idno type="VID">114002</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80503)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114002)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E373[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter written from Northampton: containing a true relation of the souldier's preaching, and murdering a woman: which are very grosly misreported by the Diurnal, and Moderate intelligencer. Together with some more new-light from Mr. Del, the chaplain to the army. As also, the quarter the souldiers give to the country where they are quartered.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ralph Smith, at the signe of the Bible in Cornhill, neer the Royal Exchange.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646. [i.e. 1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The letter is dated at end: Northampton, January 28, 1646. [i.e. 1647].; Wing has 1646.</note>
+                  <note>Annotation on Thomason copy: "feb: 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Moderate intelligencer.</term>
+               <term>Perfect diurnal.</term>
+               <term>Soldiers --  Billeting --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Mass media and the war --  Early works to 1800.</term>
+               <term>Northampton (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114002:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 79 -->
+            <p>The Copy of a LETTER <hi>Written from</hi> NORTHAMPTON: Containing A true Relation of the SOULDIER'S Preaching, and murdering a Woman: <hi>Which are very groſ<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> miſreported by the Diurnal,</hi> and <hi>Moderate Intelligencer.</hi>
+            </p>
+            <p>Together with ſome more <hi>New-Light</hi> from Mr. <hi>DEL,</hi> the Chaplain to the Army.</p>
+            <p>
+               <hi>As alſo,</hi> The <hi>Quarter</hi> the SOULDIERS give to the COUNTRY where they are <hi>Quartered.</hi>
+            </p>
+            <p>
+               <add>feb. 6<hi rend="sup">th</hi>
+               </add> 
+               <hi>LONDON,</hi> Printed for <hi>Ralph Smith,</hi> at the ſigne of the Bible in <hi>Cornhill,</hi> neer the <hi>Royal Exchange.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:114002:2"/>
+            <!-- PDF PAGE 80 -->
+            <head>The Copy of a Letter, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He weekly Pamphlets, intituled, <hi>A perfect Diurnal,</hi> and <hi>The Moderate Intelligencer,</hi> for two or three wee<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s paſt have blared a ſtory of a Trooper, who was lately complained of to the General, by a Miniſter about <hi>Northampton,</hi> for Preaching in a private houſe on the Faſt-day, and other miſ<g ref="char:EOLhyphen"/>demeanours. Now becauſe the <hi>Diurnal</hi> ſaith, this buſin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe made ſuch a noiſe in <hi>London;</hi> and becauſe both he, and his brother the <hi>Intelligencer,</hi> according to their wonted favour to the Sectaries, labou<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing to vindicate the Trooper, have related this buſineſſe very falſly, and ſought to caſt an aſperſion on the Miniſter, and his honeſt neighbour who made compl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: I was deſired by divers of the Miniſters and other friends, to give you true information of thoſe things which thoſe Pamphlets have falſified; that if you judge it needfull, you may publiſh it, or com<g ref="char:EOLhyphen"/>municate it to ſuch as you find to be miſ-informed.</p>
+            <p>The <hi>Moderate Intelligencer</hi> (as he calls himſelf) having pro<g ref="char:EOLhyphen"/>miſed a further relation of the buſineſſe, the Week before; relates (<hi>Num.</hi> 97.) that the great charge againſt the Trooper was, <hi>That he exp<gap reason="illegible: bleedthrough" extent="5+ letters">
+                     <desc>•••••…</desc>
+                  </gap>d <gap reason="illegible: bleedthrough" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> as houſe.</hi> And the <hi>Imperfect Diurnel</hi> (<hi>Num.</hi> 181) undertakes to give a true account, which he received (as he ſaith) from one well knowing the whole buſineſſe. Where it is confeſſed that 8 Articles were exhibited againſt him to the Councel of War, containing a greater Charge then the <hi>Moderate Intelligencer</hi> ſpeaks of, as appeare<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the Articles themſelves, which are there recited <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>.</p>
+            <p>
+               <pb n="3" facs="tcp:114002:2"/>
+               <!-- PDF PAGE 80 -->
+That he ſaid,
+<list>
+                  <item>1. That the <hi>Parſon</hi> was a Miniſter of Antichriſt, and not of Chriſt.</item>
+                  <item>2. That he thought he was bound to unſold the minde of Scrip<g ref="char:EOLhyphen"/>ture, as it was revealed to him.</item>
+                  <item>3. That he had preached, not long before, in two Tubs in <hi>Oxford-ſhire,</hi> meaning (as they ſay) the Pulpits.</item>
+                  <item>4. That he would preach the next Sunday in the Steeple-houſe Yard.</item>
+                  <item>5. That he hoped to ſee the Shop-windowes open on the Sabbath-day.</item>
+                  <item>6. That he fought for Half-crowns; and that he would ſight, for Papiſts, if he might have his Liberty.</item>
+                  <item>7. That he ſaid, the <hi>Pſalms</hi> of <hi>David</hi> were no Scripture.</item>
+                  <item>8. That he did not deny but that he was an <hi>Anabaptiſt.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Yet he ſaith in the concluſion, pleading for this <hi>Sectarie,—Here was no falſe Doctrine taught that might give offence.</hi> Sure, the 7. Article contains falſe Doctrine: and the words he is accuſed of in the 5. Article, amount to teaching of falſe Doctrine, implying that he denies the Morality of the Sabbath. And the <hi>Moderate Intelligencer</hi> alſo ſaith, The great charge was, that he preached in a private houſe: It ſeems, with him to deny the Scripture, is no great charge; For as for the Morality of the Sabbath, I knew his mind before, that he counts it an Holyday appointed by the State, as (<hi>Num. 96</hi>) he ſpeaks of it.</p>
+            <p>But to let go their opinions of the <hi>Troopers</hi> Doctrine; the <hi>Diurnal</hi> makes a very falſe relation of matters of fact in this buſi<g ref="char:EOLhyphen"/>neſſe. Firſt, where he ſaith, the Councel of War reſolved that none of the Articles belonged to their cogniſance by the laws of war, but the firſt only, where the Trooper is accuſed of reproachful ſpeeches; and that, for this, they ordered him to make acknow<g ref="char:EOLhyphen"/>ledgment to the Parſon. <hi>This is not denied.</hi> But ſecondly, where he ſaith, that for further ſatisfaction, they examined the particulars of the other Articles, of which (ſaith he) few could be proved: This is related both doubtf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lly and falſly. For, firſt, they did not examine the Witneſſes upon all the Articles, as that relation ſeems to imply, but only upon two more, namely the 6, and 7. And
+<pb n="4" facs="tcp:114002:3"/>
+               <!-- PDF PAGE 81 -->ſecondly thoſe 3 articles were fully proved upon oath: and thirdly all the reſt could have been proved, if the Witneſſes which were attending for that purpoſe might have been examined; and may yet be proved, if any good may come of it, with divers circum<g ref="char:EOLhyphen"/>ſtances not expreſſed in the articles, tending much to the aggra<g ref="char:EOLhyphen"/>vation of the charge.
+<list>
+                  <item>3. Where he ſaith, the Trooper made a ſatisfactory declaration concerning what he had publiſhed, (and what not?) It may be his Declaration might be ſatisfactory to ſome of his own way and opinions: but I am ſure there were ſome preſent that were not ſatisfied, of which I can tell you more then at preſent I am willing to write.</item>
+                  <item>4. Where he ſaith, the Councel of war committed him to priſon for one night: I hear he ſupped at the <hi>CROWN</hi> that night with Mr. <hi>Quatermain</hi> (a man well known in the City) and ſo it may be he had the cuſtody of him for a night; and I think that was all his impriſonment: And if he was committed for any thing contained in the Articles, it is more then any of his Accuſers knew; and yet I am told by a Captain, who might know, That the cauſe of his commitment was, his miſ<g ref="char:EOLhyphen"/>demeanour towards one of his Judges in the Councel of war, who ſpake againſt him.</item>
+                  <item>5. Where he ſaith, the Councel of War left the <hi>Parſon</hi> to accuſe him of the other Articles elſwhere, if he thought ſit: <hi>It is true.</hi> And to encourage him to complain of the miſdemeanours of Souldiers, there were two ſouldiers ſoon after ſent to his houſe to be Quartered, when the Town had their Number before, and he had his full proportion with them: And theſe were not ſent to the Conſtable as the uſe is, but ſent imme<g ref="char:EOLhyphen"/>diately to the Parſon, (he knows well by whoſe direction) and though he ſought redreſſe of this inequality, it was above a Week, and much a do before he could obtain it.</item>
+                  <item>6. Where he concludes triumphing in the innocencie of the man, and his party in the Army, ſaying, <hi>Here was no houſe broken open, nor any perſon hurt:</hi> I can tell him where perſons have been hurt, and houſes broken open by Souldiers in the Army, and men afraid to tarry in their houſes with<g ref="char:EOLhyphen"/>in 20 miles of the Generals quarters, though neer his head quarter they are more civil.</item>
+               </list>
+But I will tell you a ſtory, which was told the Councel of war, of this <hi>John Gregory,</hi> when he was tried upon thoſe articles: How he had confeſſed the killing of a Gentlewoman, after this manner:</p>
+            <p>
+               <pb n="5" facs="tcp:114002:3"/>
+               <!-- PDF PAGE 81 -->
+Being asked at his quarter neer <hi>Northampton</hi> how he came to wear ſuch fine linnen, he told this ſtory; How after <hi>Nasby</hi> fight, he overtook a Gentlewoman upon the way beyond <hi>Harborough,</hi> and ſearching her, found much fine linnen about her, which he took away, and 40. <hi>s.</hi> in money which ſhe had hidden about her very privily. (as he expreſſed more plainly:) and as he was newly gone from her, the Gentlewoman being thus ſpoiled and uncivilly ſearched, gave him ſome angry language, whereupon he turned back and killed her: Now I have known the time when this had been robbery and murther; and I beleive if the Parſon, or any of the witneſſes who accuſed him had told ſuch a ſtory of himſelf, he had ſpoken it againſt his own life; and the Councel of Warre would have taken notice of it, and the Weekly Pamphleters had been ſent to, to publiſh it all the Kingdom over. But we find by experience, that the profeſſion of ſouldiers and Sectariſme are the common ſanctuaries of all obnoxious men: And if a man will pro<g ref="char:EOLhyphen"/>feſſe himſelf a Separatiſt, and contrary minded to the Doctrine of the Church, and the Diſcipline eſtabliſhed by Parliament; and will cry up Liberty of Conſcience the great Diana of the Sectaries, he ſhall have liberty to do ſuch things as no man elſe may do with<g ref="char:EOLhyphen"/>out being queſtioned. Now is not this <hi>Gregory</hi> a ſit man to preach not only in houſes, but in Churches and Church-yards, and to revile the Miniſtry of the Kingdom, and the Diſcipline authorized by the Parliament? a man that boaſts of h<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s own wickedneſſe? yet the Councel of War took no notice of this: but all of them (two or three excepted) approve his preaching in the houſe as commend<g ref="char:EOLhyphen"/>able.</p>
+            <p>The <hi>Diurnall</hi> hath filled a page and half with this ſtory and ano<g ref="char:EOLhyphen"/>ther of a Trooper that Preached at <hi>Buckingham.</hi> And there is ſome <hi>Tavern-Poet,</hi> as I judge him, hath extended them to the quantity of a ſheet in wide lines, though he leave out two of the Articles a<g ref="char:EOLhyphen"/>gainſt <hi>Gregory</hi> of purpoſe, when he might as well have tranſcribed them from the <hi>Divrnall,</hi> as he did almoſt all the reſt of the ſtory: and he wanted not roome. It is ſold by the title of <hi>A Bloody Plot againſt the Independents.</hi> Sure the Printer wanted work, that would print ſo ridiculous a piece: but I hope he did not give much for the Copy, and then his pains was not great, if he did not loſe his paper.</p>
+            <pb n="6" facs="tcp:114002:4"/>
+            <!-- PDF PAGE 82 -->
+            <p>There was another ſtory in the <hi>Moder<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> I<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tellig<gap reason="illegible: bleedthrough" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>
+               </hi> 
+               <gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bout Three weeks ſince, how a Report was <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that M<gap reason="illegible: bleedthrough" extent="5+ letters">
+                  <desc>•••••…</desc>
+               </gap> 
+               <hi>Saltm<gap reason="illegible: bleedthrough" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſh</hi> Preached in ſome Churches at <hi>Northampton</hi> without the conſent of the Miniſter. And he ſaith thereupon, It is deſired that it be aſ<g ref="char:EOLhyphen"/>ſured that he Preached not but with the conſent of the Miniſter, or at his deſire. Now who deſired him to give the Kingdom this aſ<g ref="char:EOLhyphen"/>ſurance, he doth not ſay<g ref="char:punc">▪</g> But I can aſſure you, that Maſter <hi>Salt<g ref="char:EOLhyphen"/>marſh</hi> did Preach uſually at <hi>Alhallowes,</hi> without the conſent of Maſter <hi>Ball</hi> the Miniſter there: for when ſome neighbours did ex<g ref="char:EOLhyphen"/>poſtulate with Maſter <hi>R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll</hi> both before and after this was printed why he would ſuffer ſuch a man to Preach, whoſe Errors were ſ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> open, and came hither before him by credible intelligence: Maſter <hi>Ball</hi> did divers times in my hearing, and in the hearing of many more, profeſſe that he never gave conſent. There came indeed ſome Gentlemen from the Generall to him, to deſire Maſter <hi>Salt<g ref="char:EOLhyphen"/>marſh</hi> might Preach: to whom his anſwer was, That for juſt rea<g ref="char:EOLhyphen"/>ſons he could by no means conſent; but if the General would com<g ref="char:EOLhyphen"/>mand the Pulpit, he could not hinder, neither would he make any tumult to diſturbe him.</p>
+            <p>And no other leave had Maſter <hi>D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll,</hi> who preached the laſt Lords day in the morning <hi>January</hi> 24. in the ſame Church: where he magnified the Army, and in a manner deified it in his prayer, calling it, The Ark of Gods ſtrength. And in his Sermon on <hi>Epheſ.</hi> 6.10. among other things he delivered this, That the power by which Chriſtians muſt do and ſuffer all, was the Almighty power of God, the ſame power that was in Chriſt: and that all true be<g ref="char:EOLhyphen"/>leivers may do the ſame works which Chriſt did, (adding this) when it is the good will and pleaſure of God: quoting to this purpoſe <hi>Mark</hi> 16.17, 18. expounding it as a promiſe made to all beleevers, that they ſhall ſhew theſe ſignes, namely, caſt out de<g ref="char:EOLhyphen"/>vils, ſpeak with new tongues, take up ſerpents, and drink deadly things without harme, lay hands on the ſick and recover them; (adding) not that they ſhall do thoſe things as often as they will, but when God will: for Chriſt did no miracle at his own will, but at the Fathers will. He ſpake alſo many other things very doubt<g ref="char:EOLhyphen"/>fully, which being taken favourably were the ſame for ſubſtance which are ordinarily preached among us; but delivered in ſuch tearms as were very apt to receive a bad conſtruction among men that look for new light.</p>
+            <p>
+               <pb n="7" facs="tcp:114002:4"/>
+               <!-- PDF PAGE 82 -->
+By this year may ſee what credit is to be given to thoſe Two Weekly Pamp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lets, eſpecially where the Sectaries are concerned in the relation. It is an uſuall thing with them, eſpecially the <hi>Mo<g ref="char:EOLhyphen"/>derate Intelligencer,</hi> to have a ſnip at all men that ſtand firm to the Covenant: The man is ſo pragmatical, that he thinks he can teach the Parliament how to order Snake-affairs, the Miniſtry how to frame their prayers and begin their Sermons. He hath many times cauſeleſly aſp<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſed the <hi>Scots,</hi> the City of <hi>London,</hi> the Aſſembly, par<g ref="char:EOLhyphen"/>ticular Counties, as this of <hi>Northampton,</hi> Numb. 94. branding them for a ſloathfull people, who if they had a Mine of gold and ſilver in the Country, would not beſtow digging of it: becauſe they do not make the River Navigable to <hi>Northampton.</hi> He would be thought not only a deep politician, and divine, but a mathematician too. But I would have him know, the County of <hi>Northampton</hi> need not ſend for him to be Surveyour of this work, if they would go about it. There are as wiſe men as he who have well conſidered of the poſſibility and difficulty of that work, and of the advantage and diſ-advantage it would bring if <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ee effected: and are able to de<g ref="char:EOLhyphen"/>monſtrate upon thoſe grounds h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> underſtands not, how bootleſſe a project it would prove, and that the Commodity would not re<g ref="char:EOLhyphen"/>compen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the Tenth part of the <gap reason="illegible" extent="3+ letters">
+                  <desc>•••…</desc>
+               </gap>ge and diſ-commodity which would come thereby. The truth is, the County of <hi>Northampton</hi> are too much Presbyterian to be well ſpoken of in his books: few of them get by theſe troubles, o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> like to be governed by an Army. Yet I have heard ſome men ſay, That if the Presbyterians had as great Revenues by the preſent troubles, and could wear as good clothes, they might be as gallant men with him as ſome are.</p>
+            <p>He tels us this Week of ſome exeellent Orders made by a Coun<g ref="char:EOLhyphen"/>cell of War about the Quarter of the Army: As that the Souldi<g ref="char:EOLhyphen"/>ers ſhould pay their quartering at the rate of 4<hi rend="sup">d</hi>. a footman, and 10<hi rend="sup">d</hi> a horſman by the day, &amp;c. if they cannot provide them cheaper: and that they ſhall concern th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mſelves with ſuch diet as they find or as may be afforded at thoſe <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ates. It were well ſuch Orders might be put in execution, for it is a rare thing here for Souldiers to pay quarters, or to be content with diet after that rate. Colo<g ref="char:EOLhyphen"/>nel <hi>Wh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leyes</hi> Souldiers of horſe when they quartered with us the laſt month told us, we could not quarter them under 2. <hi>s.</hi> a day, and would have a hand in our Aſſeſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ments about it: and ſome Towns
+<pb n="6" facs="tcp:114002:5"/>
+               <!-- PDF PAGE 83 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:114002:5"/>
+               <!-- PDF PAGE 83 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:114002:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 84 -->were fain to aſſeſſe <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a day for <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> If a Souldier went out of the <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of his Landlord, th<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gh he paid nothing <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> quarter. Some Officers of that Regiment Taxed <gap reason="illegible: bleedthrough" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, and made the Conſtables pay it for ſome Souldiers which were abſent from their quarters. At this time within 10. mil<gap reason="illegible: bleedthrough" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>Northampton</hi> part<g ref="char:EOLhyphen"/>ly through ſcarcity of proviſion, and partly the imperiouſnes <gap reason="illegible: bleedthrough" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſouldiers, ſuch as want lodging in their own houſes for them, or deſire to ſerve God, and govern their families in quietneſſe, are fain to pay 7. <hi>s.</hi> a Week and more to board a footman, and can hardly get them entertained. No man knows what a bondage it is to be u<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der the power of an Army but they that feel it God ſend a ſpeedy concluſion of Peace, that we may have no further uſe of an Army: And that the <hi>Moderate Intelligencer</hi> may return to his trade, which I fear he hath almoſt forgotten.</p>
+            <closer>
+               <signed>Your &amp;c.</signed>
+               <dateline>Northampton, <date>January 28<g ref="char:punc">▪</g> 1646.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:114002:6"/>
+            <!-- PDF PAGE 84 -->
+         </div>
+      </body>
+   </text>
+</TEI>
